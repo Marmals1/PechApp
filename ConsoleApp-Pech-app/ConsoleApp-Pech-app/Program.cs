@@ -58,3 +58,7 @@ Console.ResetColor();
 
 Console.WriteLine($"Je hebt de Optie gekozen {option}"); // hier wordt de option int weergegevn van de keuze die wordt gemaakt.
 
+
+Console.Clear();
+Console.WriteLine("Tweede commit git");
+
